@@ -43,7 +43,8 @@
 
         # Menu entry must match a function
       menu:
-        entries: ["Dock", "Undock", "EStop", "Wall Follow Left", "Wall Follow Right", "Power", "Help"]
+        #entries: ["Undock", "EStop", "Wall Follow Left", "Wall Follow Right", "Power", "Help"]
+        entries: ["Dock", "Undock", "EStop", "Wall Follow Left", "Wall Follow Right", "Power", "Help", "Hello", "Square Dock"]
 
       # Controller button functions
       # Buttons:
